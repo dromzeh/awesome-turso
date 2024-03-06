@@ -201,6 +201,7 @@ Tools by the community.
 - [Flipt](https://github.com/flipt-io/flipt): Enterprise-ready, GitOps enabled, CloudNative feature management solution.
 - [Open Status](https://www.openstatus.dev/): A reliable, easy and fast way to synthetically monitor your APIs and websites.
 - [CutIt](https://cutit.vercel.app/): A free open-source tool to generate short links.
+- [wanderer.moe](https://wanderer.moe/): A centralized database of various game assets.
 
 <h3 id="apps-websites">Apps & Websites</h3>
 
@@ -216,5 +217,4 @@ Tools by the community.
 - [my-way-track](https://github.com/subzerocloud/my-way-track/tree/turso) - App for privately tracking job applications.
 - [My Links](https://www.my-links.live): An open source version on linktree.
 - [Solana Tracker](https://www.solanatracker.io): A secure Solana Coins tracker.
-- [wanderer.moe](https://wanderer.moe/): A centralized database of various game assets.
 - [CSVAPI](https://www.csvapi.com/): a service that lets you build APIs from your CSV files.
